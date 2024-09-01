@@ -24,5 +24,3 @@ jobs:
           branch: automated-update
           branch-suffix: timestamp
           title: Update globals
-NAPI_EXTERN napi_status
-node_api_get_module_file_name(node_api_basic_env env, const char** result);
